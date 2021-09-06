@@ -1,7 +1,7 @@
 
 # Vefforritun 1, 2021: Verkefni 3, CSS #1
 
-[Kynning í fyrirlestri](https://youtu.be/).
+[Kynning í fyrirlestri](https://youtu.be/_q1B4EHQzgQ).
 
 Verkefnið er framhald af [verkefni 2](https://github.com/vefforritun/vef1-2021-v2), nýtir það efni sem uppsett er í því, og fylgir þeirri verkefnalýsingu. Leyfilegt er að nota [sýnilausn að verkefni 2](https://github.com/vefforritun/vef1-2021-v2-synilausn) (sem gefin er út föstudaginn 10. september).
 
@@ -81,7 +81,7 @@ Aðeins skal nota eftirfarandi eigindi, og ef tekið fram, viðeigandi gildi:
 * `border-spacing: 0;`
 * `box-sizing`
 * `clear`
-* `display: block;`, `display: inlne;`,  og `display: inline-block;`
+* `display: block;`, `display: inline;`,  og `display: inline-block;`
 * `content: '';` (hægt er að nota `:after` til að útbúa block sem „hreinsar“ `float`)
 * `float` (notum þetta til að setja blockir hlið-við-hlið, en bara í þetta skipti!)
 * `font-size: 16px;`
